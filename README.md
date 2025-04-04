@@ -74,18 +74,10 @@ python detection.py
 
 ---
 
-## 🎥 成品展示
-
-📽️ [點我觀看專題成品影片](#)  
-（你可以放影片連結或上傳影片到 GitHub / YouTube）
-
----
-
 ## 🙋‍♂️ 作者資訊
 
 - 作者：徐千善 (hsucs2712)
-- 學校：＿＿＿
-- 信箱：＿＿＿
+- 學校：朝洋科技大學
 - GitHub：https://github.com/hsucs2712
 
 ---
